@@ -7,6 +7,7 @@ I like:
 - travel 🛣️
 
 and coding of course 💻
+
 -
 ### Skills and Tools
 
