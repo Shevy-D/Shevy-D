@@ -8,7 +8,7 @@ I like:
 - travel 🛣️
 
 and coding of course 💻
----
+-
 ### Skills and Tools
 
 <img align="left" alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
