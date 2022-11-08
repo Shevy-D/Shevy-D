@@ -3,11 +3,12 @@
 ### I'm a beginner Android Kotlin developer.
 
 I like
-- :read: read
-- :sport: sport
-- :travel: travel
 
-and coding of course :computer:
+- read 📚
+- sport 🏃
+- travel 🛣️
+
+and coding of course 💻
 
 <!--
 **Shevy-D/Shevy-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
