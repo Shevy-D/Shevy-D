@@ -27,7 +27,11 @@ and coding of course 💻
 
 [<img align="left" alt="Telegram" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/DAShevy)
 
-[<img align="left" alt="CodeWars" width="36px" src="https://www.codewars.com/users/Shevy-D/badges/large" />](https://www.codewars.com/users/Shevy-D)
+<br />
+<br />
+<br />
+
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/Shevy-D/badges/large" />](https://www.codewars.com/users/Shevy-D)
 
 <!--
 **Shevy-D/Shevy-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
