@@ -21,6 +21,11 @@ and coding of course 💻
 
 <br />
 <br />
+
+Android SDK, MVVM, Clean Architecture, Coroutines, Room 
+
+<br />
+<br />
 <br />
 
 ### My contacts:
