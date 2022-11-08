@@ -8,7 +8,7 @@ I like:
 - travel 🛣️
 
 and coding of course 💻
--
+---
 ### Skills and Tools
 
 <img align="left" alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
@@ -23,7 +23,7 @@ and coding of course 💻
 <br />
 <br />
 <br />
--
+
 ### My contacts:
 
 [<img align="left" alt="Telegram" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/DAShevy)
