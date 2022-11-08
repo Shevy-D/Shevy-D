@@ -29,7 +29,6 @@ and coding of course 💻
 
 <br />
 <br />
-<br />
 
 [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/Shevy-D/badges/large" />](https://www.codewars.com/users/Shevy-D)
 
