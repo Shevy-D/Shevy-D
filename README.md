@@ -11,8 +11,9 @@ and coding of course 💻
 
 ### Skills and Tools
 
-[image](https://user-images.githubusercontent.com/96663113/200529653-77a90a34-60d8-46dc-a1b5-778f0558c3de.png)
-![image](https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png)
+[<img align="left" alt="Kotlin" width="32px" src="https://user-images.githubusercontent.com/96663113/200529653-77a90a34-60d8-46dc-a1b5-778f0558c3de.png" />]
+
+(https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png)
 
 [<img align="left" alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />][image]
 
