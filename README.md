@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Dmitriy.
--
 ### I'm a beginner Android Kotlin developer.
 
 I like:
