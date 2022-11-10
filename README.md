@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Dmitriy.
 ### I'm a beginner Android Kotlin developer.
 
-I like:
-- read 📚
+I'm fond of:
+- reading 📚
 - sport 🏃
-- travel 🛣️
+- travelling 🛣️
 
 and coding of course 💻
 
