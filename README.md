@@ -1,4 +1,4 @@
-## Hi 👋, I'm Dmitriy.
+## Hi 👋, I'm Polina.
 ### I'm a beginner Android Kotlin developer.
 
 I'm fond of:
@@ -27,7 +27,7 @@ Android SDK, MVVM, Clean Architecture, Coroutines, Room
 
 ### My contacts:
 
-[<img align="left" alt="Telegram" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/DAShevy)
+[<img align="left" alt="Telegram" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/Pardasove)
 
 <br />
 <br />
