@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Polina.
-### I'm a beginner Android Kotlin developer.
+### I'm an Android Kotlin developer.
 
 I'm fond of:
 - reading 📚
