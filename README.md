@@ -1,4 +1,4 @@
-## Hi 👋, I'm Polina.
+## Hi 👋, I'm Dmitriy.
 ### I'm an Android Kotlin developer.
 
 I'm fond of:
